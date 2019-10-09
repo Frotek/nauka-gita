@@ -1,0 +1,13 @@
+.container {
+	width: 1140px;
+	display: flex;
+	justify-content: center;
+}
+.lirycs {
+	flex: 1;
+	max-width: 250px;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
