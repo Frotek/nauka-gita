@@ -1,0 +1,9 @@
+autoprefixer-cli -o main.prefixed.css main.css
+
+
+
+cli otworzone w katalogu projektu, więc
+
+nu-html-checker index.html
+
+(no validation errors found!)  : ) 
